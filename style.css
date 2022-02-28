@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+body{
+
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+    background-blend-mode: screen;
+    background-attachment: fixed;
+    background-size: cover;
+    
+
+
+}
+.form-register{
+
+    width: 400px;
+    background: white;
+    padding: 30px;
+    margin: auto;
+    margin-top: 110px;
+    border-radius: 4px;
+    font-family: "calibri";
+    color: da;
+    box-shadow: 7px 13px 37px #000;
+}
+
+.form-register h1{
+
+    
+        font-size: 22px;
+        margin-bottom: 20px;
+        color: cadetblue;
+
+}
+
+.controls{
+
+        width: 100%;
+        background: white;
+        padding: 10px;
+        border-radius: 5px;
+        margin-bottom: 16px;
+        border: 1px solid cadetblue;
+        font-family: "calibri";
+        font-size: 18px;
+
+}
+.form-register .botons{
+
+    width: 30%;
+    background: white;
+    border: cadetblue;
+    border-color: cadetblue;
+    padding: 7px;
+    color: cadetblue;
+    margin-top: 16px 0;
+    font-size: 16px;
+}
+
+.form-register p1{
+
+height: 40px;
+font-size: 18px;
+line-height: 40px;
+}
+
+
+h1{
+    
+    text-align: center;
+    font-size: medium;
+    background-image: linear-gradient();
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-position: center;
+}
+
+label{
+
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
